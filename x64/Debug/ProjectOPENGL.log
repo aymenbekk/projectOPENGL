@@ -1,0 +1,13 @@
+﻿  Camera.cpp
+  EBO.cpp
+  Main.cpp
+C:\Users\aymen\3D Objects\OpenGL projects\ProjectOPENGL\Main.cpp(189,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Mesh.cpp
+C:\Users\aymen\3D Objects\OpenGL projects\ProjectOPENGL\Mesh.cpp(47,43): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Shader.cpp
+  Texture.cpp
+  VAO.cpp
+C:\Users\aymen\3D Objects\OpenGL projects\ProjectOPENGL\VAO.cpp(13,63): warning C4244: 'argument': conversion from 'GLsizeiptr' to 'GLsizei', possible loss of data
+  VBO.cpp
+  Generating Code...
+  ProjectOPENGL.vcxproj -> C:\Users\aymen\3D Objects\OpenGL projects\ProjectOPENGL\x64\Debug\ProjectOPENGL.exe
