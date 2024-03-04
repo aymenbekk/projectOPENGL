@@ -51,12 +51,30 @@
     <ClCompile Include="Mesh.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Terrain.hpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sphere.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="shader.vert">
       <Filter>Resource Files\shaders</Filter>
     </None>
     <None Include="shader.frag">
+      <Filter>Resource Files\shaders</Filter>
+    </None>
+    <None Include="light.vert">
+      <Filter>Resource Files\shaders</Filter>
+    </None>
+    <None Include="light.frag">
+      <Filter>Resource Files\shaders</Filter>
+    </None>
+    <None Include="terrain.frag">
+      <Filter>Resource Files\shaders</Filter>
+    </None>
+    <None Include="terrain.vert">
       <Filter>Resource Files\shaders</Filter>
     </None>
   </ItemGroup>
@@ -80,6 +98,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sphere.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

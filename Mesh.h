@@ -22,5 +22,8 @@ public:
 
 	
 	void Draw(Shader& shader, Camera& camera);
+	void AttachTransformMatrices(std::vector<glm::mat4> matrices, std::vector<glm::vec3> colors);
+
+	void drawInstances(Shader& shader, Camera& camera,unsigned int indicesSize, int countCubes);
 };
 #endif
